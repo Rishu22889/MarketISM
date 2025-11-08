@@ -34,6 +34,15 @@ Built using **Flutter** and **Supabase** for authentication and backend.
 | **Storage** | Supabase Storage |
 
 ---
+## 📱 Download MarketISM App
+
+You can download and install the latest release of **MarketISM** (Campus Marketplace App for IIT (ISM) Dhanbad) using the link below:
+
+👉 [**Download MarketISM APK**](https://github.com/Rishu22889/MarketISM/raw/main/build/app/outputs/flutter-apk/app-release.apk)
+
+> ⚠️ Note: If your browser blocks the download, right-click the link and choose **“Save link as…”** to download manually.
+
+---
 
 ## 🧩 Setup Instructions
 
